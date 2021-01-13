@@ -65,7 +65,7 @@ onecon(['BD'],"Bangladesh Graphs")#thefollowing functions takes in the parmeter(
 ![internet users in india and bangladesh](./image/ban.png)
 
 # conclusions
-[google Collab link]()
+[View Notebook](https://github.com/tejas-python/worldbank-data-analysis/blob/master/edstatsanalysis.ipynb)
  * From the above exploration we can note that after considering some of the major feature like internet and other sub features we can say in asia the best countries would be bangladesh ,china and india.
  * From the above exploration it can been seen that barzil and USA in America.
 * From the above exploration it can been seen that polland , britan and finland in Europe.
